@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  /*abcdregge*/
+  /*abcdreggeedfdf*/
     <img src="./assets/logo.png">
     <h1></h1>
     <h2>Essential Links</h2>
